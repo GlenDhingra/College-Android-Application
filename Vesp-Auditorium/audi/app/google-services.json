@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63625301610",
+    "firebase_url": "https://final-year-project-database.firebaseio.com",
+    "project_id": "final-year-project-database",
+    "storage_bucket": "final-year-project-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63625301610:android:5a03662a3d663bb2f30413",
+        "android_client_info": {
+          "package_name": "com.example.audi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63625301610-avabblvvv57iol4umohjtf5vmucd3d2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audi",
+            "certificate_hash": "c968e4bb4deea2e53e7d561e17ca0cd0f5a05a6d"
+          }
+        },
+        {
+          "client_id": "63625301610-udt69m08rd9akjerkh5nh2ulfcfsqhtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPWkoHQBXwtAnc2-BoCowj6GgYItVal8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63625301610-udt69m08rd9akjerkh5nh2ulfcfsqhtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

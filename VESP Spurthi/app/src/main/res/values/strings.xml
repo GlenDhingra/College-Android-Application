@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">VESP Spurthi</string>
+
+    <array name="sport">
+        <item>Select Sport</item>
+        <item>Badminton</item>
+        <item>Table Tennis</item>
+        <item>Athletics</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>VolleyBall</item>
+        <item>Kabaddi</item>
+        <item>ThrowBall</item>
+        <item>Kho-Kho</item>
+        <item>Carrom</item>
+        <item>Chess</item>
+    </array>
+
+    <array name="slot">
+        <item>Select Slot</item>
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </array>
+
+    <array name="type">
+        <item>Select Tournament Type</item>
+        <item>Singles</item>
+        <item>Doubles</item>
+    </array>
+
+    <array name="athletics">
+        <item>100m</item>
+        <item>200m</item>
+        <item>4 X 100m</item>
+    </array>
+
+    <array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <array name="listOfTypes">
+        <item>Individual</item>
+        <item>Team</item>
+    </array>
+    <array name="TeamSports">
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Volleyball</item>
+        <item>Kho-Kho</item>
+        <item>Athletics-Relay</item>
+        <item>Badminton-Doubles</item>
+        <item>Carrom-Doubles</item>
+        <item>Table-Tennis Doubles</item>
+        <item>Throwball</item>
+    </array>
+    <array name="IndividualSports">
+        <item>Chess</item>
+        <item>Athletics-100m</item>
+        <item>Athletics-200m</item>
+        <item>Athletics-400m</item>
+        <item>Athletics-800m</item>
+        <item>Badminton-Singles</item>
+        <item>Carrom-Singles</item>
+        <item>Table-Tennis Singles</item>
+        <item>Long Jump</item>
+    </array>
+    <array name="popUpOptions">
+        <item>Edit</item>
+        <item>Delete</item>
+    </array>
+    <array name="branches">
+        <item>CO-A</item>
+        <item>CO-B</item>
+        <item>EJ</item>
+        <item>EQ</item>
+        <item>ET</item>
+        <item>IS</item>
+        <item>IE</item>
+    </array>
+
+</resources>

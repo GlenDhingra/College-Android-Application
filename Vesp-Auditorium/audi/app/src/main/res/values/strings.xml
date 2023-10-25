@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VESP Auditorium Booking</string>
+
+    <string-array name="seats">
+        <item>100 seats</item>
+        <item>150 seats</item>
+        <item>250 seats</item>
+
+    </string-array>
+
+
+    <string-array name="posi">
+        <item>Select</item>
+        <item>Principal</item>
+        <item>Head Of Department</item>
+        <item>Lecturer</item>
+        <item>Guest</item>
+
+    </string-array>
+</resources>

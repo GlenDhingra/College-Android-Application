@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966411406810",
+    "firebase_url": "https://final-sports.firebaseio.com",
+    "project_id": "final-sports",
+    "storage_bucket": "final-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966411406810:android:f0be49155f2480c63344e3",
+        "android_client_info": {
+          "package_name": "com.example.finalsports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966411406810-2hi6hobf2em26kkdgl329hrec1i0ev3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalsports",
+            "certificate_hash": "747e596dfa115b26a3ec63e8ac2d34cfe8b0f95a"
+          }
+        },
+        {
+          "client_id": "966411406810-j198guq9fqdn1ad99mhn13ru9dl93ggq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSaxDym1AA3-fqfZtTCN_AyTiynjhmpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966411406810-j198guq9fqdn1ad99mhn13ru9dl93ggq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

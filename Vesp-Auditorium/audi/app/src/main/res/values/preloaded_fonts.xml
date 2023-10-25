@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alef</item>
+        <item>@font/dosis_extralight</item>
+        <item>@font/fanwood_text</item>
+        <item>@font/playfair_display</item>
+    </array>
+</resources>
