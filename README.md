@@ -28,3 +28,19 @@ Log in with your teacher credentials.
 View student information and grades.
 Stay informed about college events and deadlines.
 Streamline academic management for a better teaching experience.
+
+Getting Started: To explore and contribute to this project, follow these steps:
+
+Clone the Repository: git clone (https://github.com/GlenDhingra/College-Android-Application.git)
+
+Set Up Android Studio: Download and install Android Studio.
+
+Open the Project: Open the cloned project in Android Studio.
+
+Run the Application: Connect an Android device or use an emulator to run the application.
+
+Contact:
+
+If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
+
+Email: glendhingra27@gmail.com
